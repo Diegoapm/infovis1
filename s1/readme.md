@@ -9,5 +9,5 @@ Source: FiveThirtyEight
 Vamos a visualizarlo desde:
 
 1. Tableau
-2. RawGraph
+2. [RawGraph](https://aaizemberg.github.io/ecd2022a/s1/bump.html)
 3. ObservableHQ
