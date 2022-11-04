@@ -1,6 +1,10 @@
 # semana 2
 
-Los datos que vamos a utilizar para esta semana: https://data.world/makeovermonday/2022w44
+Los datos que vamos a utilizar para esta semana: https://data.world/makeovermonday/2022w44 
+
+Ya tengo el csv en mi github, para no buscarlo en dataworld
+
+[2022w44.csv](2022w44.csv) o su versión [RAW data](https://aaizemberg.github.io/ecd2022a/s2/2022w44.csv)
 
 ### Fundraising by Members of the 117th Congress
 
