@@ -15,5 +15,4 @@ Herramientas que vamos a utilizar:
 1. [Tableau](https://aaizemberg.github.io/ecd2022a/s2/tableau.html)
 2. [Flourish 1](https://aaizemberg.github.io/ecd2022a/s2/beeswarm.html)
 3. [Flourish 2](https://aaizemberg.github.io/ecd2022a/s2/hbars.html)
-4. ObservableHQ (Plot.js y D3.js)
-5. Colab (python & altair y R & ggplot2)
+4. Colab (python & Altair)
