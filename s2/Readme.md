@@ -15,4 +15,5 @@ Herramientas que vamos a utilizar:
 1. [Tableau](https://aaizemberg.github.io/ecd2022a/s2/tableau.html)
 2. [Flourish 1](https://aaizemberg.github.io/ecd2022a/s2/beeswarm.html)
 3. [Flourish 2](https://aaizemberg.github.io/ecd2022a/s2/hbars.html)
+3. [Vega-Lite scatterplot with tooltips](https://aaizemberg.github.io/ecd2022a/s2/scatterplot.html)
 4. Colab (python & Altair)
