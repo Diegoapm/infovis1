@@ -12,7 +12,7 @@ Les recomiendo que vean el video de [Andy Kriebel](https://youtu.be/bORvGBqKfD4)
 
 Herramientas que vamos a utilizar:
 
-1. [Tableau](tableau.html)
+1. [Tableau](https://aaizemberg.github.io/ecd2022a/s2/tableau.html)
 2. Flourish
 3. ObservableHQ (Plot.js y D3.js)
 4. Colab (python & altair y R & ggplot2)
